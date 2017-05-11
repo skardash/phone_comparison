@@ -5,6 +5,5 @@ We handle following formats of US phones:
 	Dialed in the US: 	1-541-754-3010
 ----------------------------------------------------
 	- put your phones to list.csv file
-	- run 'python get_line.py' in terminal
-	- 
+	- run 'python get_line.pyc' in terminal
 ----------------------------------------------------	
