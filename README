@@ -7,4 +7,3 @@ We handle following formats of US phones:
 	- put your phones to list.csv file
 	- run 'python get_line.pyc' in terminal
 ----------------------------------------------------
-123
